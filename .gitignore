@@ -364,8 +364,8 @@ FodyWeavers.xsd
 
 
 # vcpkg
-vcpkg/
-/vcpkg/
-/downloads/
-/installed*/
-/packages/
+#vcpkg/
+#/vcpkg/
+#/downloads/
+#/installed*/
+#/packages/
